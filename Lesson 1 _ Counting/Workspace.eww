@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\lesson1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Lesson 2 _ FlowOfControl\Project.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

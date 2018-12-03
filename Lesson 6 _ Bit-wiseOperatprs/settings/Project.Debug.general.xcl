@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armsim2.dll" 
+
+"C:\Users\LaLu\Documents\Embedded_Programming\Lesson 6 _ Bit-wiseOperatprs\Debug\Exe\Project.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+
+
+

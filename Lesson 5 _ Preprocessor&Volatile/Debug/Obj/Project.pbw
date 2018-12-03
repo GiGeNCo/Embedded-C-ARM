@@ -1,0 +1,100 @@
+[
+  {
+    "ID": "c:main.c@8@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "RCGCGPIO",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@85@macro@GPIOF_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_BASE",
+    "location": {
+      "column": "9",
+      "line": "3",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "GPIOF_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@118@macro@GPIO_DIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DIR",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "GPIO_DIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@177@macro@GPIO_DEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DEN",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "GPIO_DEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@236@macro@GPIOF_DATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOF_DATA",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "GPIOF_DATA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "10",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@573@F@main@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "20",
+      "line": "24",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 5 _ Preprocessor&Volatile\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]

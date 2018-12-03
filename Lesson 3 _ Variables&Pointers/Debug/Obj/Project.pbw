@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "1",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 3 _ Variables&Pointers\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "5",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 3 _ Variables&Pointers\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@123@F@main@p_int",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "p_int",
+    "location": {
+      "column": "8",
+      "line": "7",
+      "path": "C:\\Users\\LaLu\\Documents\\Embedded_Programming\\Lesson 3 _ Variables&Pointers\\main.c"
+    },
+    "name": "p_int",
+    "origin": "project_file",
+    "scope": null
+  }
+]
